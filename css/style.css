@@ -514,7 +514,7 @@ header.sticky {
   }
   .navlist {
     position: absolute;
-    top: -400%;
+    top: -500%;
     left: 0;
     right: 0;
     display: flex;
